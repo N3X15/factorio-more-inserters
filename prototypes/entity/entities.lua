@@ -65,7 +65,6 @@ data:extend(
     rotation_speed = 0.02
   },
 
-
   {
     type = "inserter",
     name = "inserter_long",
@@ -130,7 +129,6 @@ data:extend(
     },
     rotation_speed = 0.02
   },
-
 
   {
     type = "inserter",
@@ -197,7 +195,6 @@ data:extend(
     rotation_speed = 0.02
   },
 
-
   {
     type = "inserter",
     name = "inserter_fast_half",
@@ -262,7 +259,6 @@ data:extend(
     },
     rotation_speed = 0.03
   },
-
 
   {
     type = "inserter",
@@ -329,8 +325,6 @@ data:extend(
     rotation_speed = 0.06
   },
 
-
-
   {
     type = "inserter",
     name = "inserter_veryfast",
@@ -396,8 +390,7 @@ data:extend(
     rotation_speed = 0.06
   },
 
-
-{
+  {
     type = "inserter",
     name = "inserter_half_filter",
     icon = "__MOD_Inserter__/graphics/icons/inserter_half.png",
@@ -462,7 +455,6 @@ data:extend(
     filter_count = 5,
     rotation_speed = 0.02
   },
-
 
   {
     type = "inserter",
@@ -530,7 +522,6 @@ data:extend(
     rotation_speed = 0.02
   },
 
-
   {
     type = "inserter",
     name = "inserter_long_half_filter",
@@ -596,7 +587,6 @@ data:extend(
     filter_count = 5,
     rotation_speed = 0.02
   },
-
 
   {
     type = "inserter",
@@ -664,7 +654,6 @@ data:extend(
     rotation_speed = 0.03
   },
 
-
   {
     type = "inserter",
     name = "inserter_veryfast_half_filter",
@@ -730,8 +719,6 @@ data:extend(
     filter_count = 5,
     rotation_speed = 0.06
   },
-
-
 
   {
     type = "inserter",
