@@ -29,7 +29,8 @@ data:extend(
     energy_per_rotation = 5,
     energy_source = {
       type = "electric",
-      input_priority = "secondary"
+      input_priority = "secondary",
+      usage_priority = "secondary-input"
     },
     extension_speed = 0.04,
     fast_replaceable_group = "inserter",
@@ -51,8 +52,10 @@ data:extend(
       width = 13,
       height = 41
     },
-    insert_distance = 0.3,
-    pickup_distance = 1,
+    pickup_position = {0, -1},
+    insert_position = {0, 0.3},
+    --insert_distance = 0.3,
+    --pickup_distance = 1,
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -92,7 +95,8 @@ data:extend(
     energy_per_rotation = 5,
     energy_source = {
       type = "electric",
-      input_priority = "secondary"
+      input_priority = "secondary",
+      usage_priority = "secondary-input"
     },
     extension_speed = 0.08,
     fast_replaceable_group = "inserter",
@@ -114,8 +118,10 @@ data:extend(
       width = 13,
       height = 41
     },
-    insert_distance = 1.7,
-    pickup_distance = 1,
+    --insert_distance = 1.7,
+    --pickup_distance = 1,
+    pickup_position = {0, -1},
+    insert_position = {0, 1.7},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -155,7 +161,8 @@ data:extend(
     energy_per_rotation = 5,
     energy_source = {
       type = "electric",
-      input_priority = "secondary"
+      input_priority = "secondary",
+      usage_priority = "secondary-input"
     },
     extension_speed = 0.08,
     fast_replaceable_group = "inserter",
@@ -177,8 +184,10 @@ data:extend(
       width = 13,
       height = 41
     },
-    insert_distance = 1.3,
-    pickup_distance = 1,
+    --insert_distance = 1.3,
+    --pickup_distance = 1,
+    pickup_position = {0, -1},
+    insert_position = {0, 1.3},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -218,7 +227,8 @@ data:extend(
     energy_per_rotation = 5,
     energy_source = {
       type = "electric",
-      input_priority = "secondary"
+      input_priority = "secondary",
+      usage_priority = "secondary-input"
     },
     extension_speed = 0.07,
     fast_replaceable_group = "inserter",
@@ -240,8 +250,10 @@ data:extend(
       width = 13,
       height = 41
     },
-    insert_distance = 0.3,
-    pickup_distance = 1,
+    --insert_distance = 0.3,
+    --pickup_distance = 1,
+    pickup_position = {0, -1},
+    insert_position = {0, 0.3},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -281,7 +293,8 @@ data:extend(
     energy_per_rotation = 5,
     energy_source = {
       type = "electric",
-      input_priority = "secondary"
+      input_priority = "secondary",
+      usage_priority = "secondary-input"
     },
     extension_speed = 0.14,
     fast_replaceable_group = "inserter",
@@ -303,8 +316,10 @@ data:extend(
       width = 13,
       height = 41
     },
-    insert_distance = 0.3,
-    pickup_distance = 1,
+    --insert_distance = 0.3,
+    --pickup_distance = 1,
+    pickup_position = {0, -1},
+    insert_position = {0, 0.3},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -345,7 +360,8 @@ data:extend(
     energy_per_rotation = 5,
     energy_source = {
       type = "electric",
-      input_priority = "secondary"
+      input_priority = "secondary",
+      usage_priority = "secondary-input"
     },
     extension_speed = 0.14,
     fast_replaceable_group = "inserter",
@@ -367,8 +383,10 @@ data:extend(
       width = 13,
       height = 41
     },
-    insert_distance = 0.7,
-    pickup_distance = 1,
+    --insert_distance = 0.7,
+    --pickup_distance = 1,
+    pickup_position = {0, -1},
+    insert_position = {0, 0.7},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -408,7 +426,8 @@ data:extend(
     energy_per_rotation = 5,
     energy_source = {
       type = "electric",
-      input_priority = "secondary"
+      input_priority = "secondary",
+      usage_priority = "secondary-input"
     },
     extension_speed = 0.04,
     fast_replaceable_group = "inserter",
@@ -430,8 +449,10 @@ data:extend(
       width = 13,
       height = 41
     },
-    insert_distance = 0.3,
-    pickup_distance = 1,
+    --insert_distance = 0.3,
+    --pickup_distance = 1,
+    pickup_position = {0, -1},
+    insert_position = {0, 0.3},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -472,7 +493,8 @@ data:extend(
     energy_per_rotation = 5,
     energy_source = {
       type = "electric",
-      input_priority = "secondary"
+      input_priority = "secondary",
+      usage_priority = "secondary-input"
     },
     extension_speed = 0.08,
     fast_replaceable_group = "inserter",
@@ -494,8 +516,10 @@ data:extend(
       width = 13,
       height = 41
     },
-    insert_distance = 1.7,
-    pickup_distance = 1,
+    --insert_distance = 1.7,
+    --pickup_distance = 1,
+    pickup_position = {0, -1},
+    insert_position = {0, 1.7},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -536,7 +560,8 @@ data:extend(
     energy_per_rotation = 5,
     energy_source = {
       type = "electric",
-      input_priority = "secondary"
+      input_priority = "secondary",
+      usage_priority = "secondary-input"
     },
     extension_speed = 0.08,
     fast_replaceable_group = "inserter",
@@ -558,8 +583,10 @@ data:extend(
       width = 13,
       height = 41
     },
-    insert_distance = 1.3,
-    pickup_distance = 1,
+    --insert_distance = 1.3,
+    --pickup_distance = 1,
+    pickup_position = {0, -1},
+    insert_position = {0, 1.3},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -600,7 +627,8 @@ data:extend(
     energy_per_rotation = 5,
     energy_source = {
       type = "electric",
-      input_priority = "secondary"
+      input_priority = "secondary",
+      usage_priority = "secondary-input"
     },
     extension_speed = 0.07,
     fast_replaceable_group = "inserter",
@@ -622,8 +650,10 @@ data:extend(
       width = 13,
       height = 41
     },
-    insert_distance = 0.3,
-    pickup_distance = 1,
+    --insert_distance = 0.3,
+    --pickup_distance = 1,
+    pickup_position = {0, -1},
+    insert_position = {0, 0.3},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -664,7 +694,8 @@ data:extend(
     energy_per_rotation = 5,
     energy_source = {
       type = "electric",
-      input_priority = "secondary"
+      input_priority = "secondary",
+      usage_priority = "secondary-input"
     },
     extension_speed = 0.14,
     fast_replaceable_group = "inserter",
@@ -686,8 +717,10 @@ data:extend(
       width = 13,
       height = 41
     },
-    insert_distance = 0.3,
-    pickup_distance = 1,
+    --insert_distance = 0.3,
+    --pickup_distance = 1,
+    pickup_position = {0, -1},
+    insert_position = {0, 0.3},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -729,7 +762,8 @@ data:extend(
     energy_per_rotation = 5,
     energy_source = {
       type = "electric",
-      input_priority = "secondary"
+      input_priority = "secondary",
+      usage_priority = "secondary-input"
     },
     extension_speed = 0.14,
     fast_replaceable_group = "inserter",
@@ -751,8 +785,10 @@ data:extend(
       width = 13,
       height = 41
     },
-    insert_distance = 0.7,
-    pickup_distance = 1,
+    -- insert_distance = 0.7,
+    -- pickup_distance = 1,
+    pickup_position = {0, -1},
+    insert_position = {0, 0.7},
     platform_picture = {
       priority = "extra-high",
       width = 32,

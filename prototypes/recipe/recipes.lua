@@ -3,6 +3,7 @@ data:extend(
   {
     type = "recipe",
     name = "inserter_half",
+    --category = "inserters-mod-half",
     ingredients = {
       {
         "electronic-circuit",
@@ -21,11 +22,10 @@ data:extend(
     enabled = false
   },
 
-
-
   {
     type = "recipe",
     name = "inserter_long",
+    --category = "inserters-mod-long",
     ingredients = {
       {
         "basic-inserter",
@@ -44,11 +44,10 @@ data:extend(
     enabled = false
   },
 
-
-
   {
     type = "recipe",
     name = "inserter_long_half",
+    --category = "inserters-mod-longhalf",
     ingredients = {
       {
         "basic-inserter",
@@ -72,6 +71,7 @@ data:extend(
   {
     type = "recipe",
     name = "inserter_fast_half",
+    --category = "inserters-mod-half",
     ingredients = {
       {
         "electronic-circuit",
@@ -95,6 +95,7 @@ data:extend(
   {
     type = "recipe",
     name = "inserter_veryfast",
+    --category = "inserters-mod-full",
     ingredients = {
       {
         "electronic-circuit",
@@ -113,11 +114,10 @@ data:extend(
     enabled = false
   },
 
-
-
   {
     type = "recipe",
     name = "inserter_veryfast_half",
+    --category = "inserters-mod-half",
     ingredients = {
       {
         "electronic-circuit",
@@ -136,17 +136,10 @@ data:extend(
     enabled = false
   },
 
-
-
-
-
-
-
-
-
 {
     type = "recipe",
     name = "inserter_half_filter",
+    --category = "inserters-mod-half",
     ingredients = {
       {
         "electronic-circuit",
@@ -170,6 +163,7 @@ data:extend(
   {
     type = "recipe",
     name = "inserter_long_filter",
+    --category = "inserters-mod-long",
     ingredients = {
       {
         "basic-inserter",
@@ -188,11 +182,10 @@ data:extend(
     enabled = false
   },
 
-
-
   {
     type = "recipe",
     name = "inserter_long_half_filter",
+    --category = "inserters-mod-longhalf",
     ingredients = {
       {
         "basic-inserter",
@@ -216,6 +209,7 @@ data:extend(
   {
     type = "recipe",
     name = "inserter_fast_half_filter",
+    --category = "inserters-mod-half",
     ingredients = {
       {
         "electronic-circuit",
@@ -234,11 +228,10 @@ data:extend(
     enabled = false
   },
 
-
-
   {
     type = "recipe",
     name = "inserter_veryfast_filter",
+    --category = "inserters-mod-full",
     ingredients = {
       {
         "electronic-circuit",
@@ -257,11 +250,10 @@ data:extend(
     enabled = false
   },
 
-
-
   {
     type = "recipe",
     name = "inserter_veryfast_half_filter",
+    --category = "inserters-mod-half",
     ingredients = {
       {
         "electronic-circuit",
