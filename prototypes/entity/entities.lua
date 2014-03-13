@@ -53,7 +53,7 @@ data:extend(
       height = 41
     },
     pickup_position = {0, -1},
-    insert_position = {0, 0.3},
+    insert_position = {0, 0.8},
     --insert_distance = 0.3,
     --pickup_distance = 1,
     platform_picture = {
@@ -120,7 +120,7 @@ data:extend(
     --insert_distance = 1.7,
     --pickup_distance = 1,
     pickup_position = {0, -1},
-    insert_position = {0, 1.7},
+    insert_position = {0, 2.2},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -185,7 +185,7 @@ data:extend(
     --insert_distance = 1.3,
     --pickup_distance = 1,
     pickup_position = {0, -1},
-    insert_position = {0, 1.3},
+    insert_position = {0, 1.8},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -250,7 +250,7 @@ data:extend(
     --insert_distance = 0.3,
     --pickup_distance = 1,
     pickup_position = {0, -1},
-    insert_position = {0, 0.3},
+    insert_position = {0, 0.8},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -315,7 +315,7 @@ data:extend(
     --insert_distance = 0.3,
     --pickup_distance = 1,
     pickup_position = {0, -1},
-    insert_position = {0, 0.3},
+    insert_position = {0, 0.8},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -380,7 +380,7 @@ data:extend(
     --insert_distance = 0.7,
     --pickup_distance = 1,
     pickup_position = {0, -1},
-    insert_position = {0, 0.7},
+    insert_position = {0, 1.2},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -445,7 +445,7 @@ data:extend(
     --insert_distance = 0.3,
     --pickup_distance = 1,
     pickup_position = {0, -1},
-    insert_position = {0, 0.3},
+    insert_position = {0, 0.8},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -511,7 +511,7 @@ data:extend(
     --insert_distance = 1.7,
     --pickup_distance = 1,
     pickup_position = {0, -1},
-    insert_position = {0, 1.7},
+    insert_position = {0, 2.2},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -577,7 +577,7 @@ data:extend(
     --insert_distance = 1.3,
     --pickup_distance = 1,
     pickup_position = {0, -1},
-    insert_position = {0, 1.3},
+    insert_position = {0, 1.8},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -643,7 +643,7 @@ data:extend(
     --insert_distance = 0.3,
     --pickup_distance = 1,
     pickup_position = {0, -1},
-    insert_position = {0, 0.3},
+    insert_position = {0, 0.8},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -709,7 +709,7 @@ data:extend(
     --insert_distance = 0.3,
     --pickup_distance = 1,
     pickup_position = {0, -1},
-    insert_position = {0, 0.3},
+    insert_position = {0, 0.8},
     platform_picture = {
       priority = "extra-high",
       width = 32,
@@ -775,7 +775,7 @@ data:extend(
     -- insert_distance = 0.7,
     -- pickup_distance = 1,
     pickup_position = {0, -1},
-    insert_position = {0, 0.7},
+    insert_position = {0, 1.2},
     platform_picture = {
       priority = "extra-high",
       width = 32,
